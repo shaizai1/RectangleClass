@@ -1,5 +1,5 @@
 package Rectangle.src.main;
-
+//
 public class SimpleRectangle {
     
     public static void main(String[] args) {
